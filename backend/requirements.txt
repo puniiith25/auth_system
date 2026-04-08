@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+python-dotenv
+face_recognition
+bcrypt
+python-jose
+python-multipart
+numpy
+setuptools==69.5.1
