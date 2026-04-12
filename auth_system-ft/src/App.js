@@ -15,6 +15,7 @@ function App() {
     email: "",
     password: "",
   });
+// file setstate
   const [file, setFile] = useState(null);
   const [msg, setMsg] = useState("");
 
